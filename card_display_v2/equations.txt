@@ -1,1 +1,1 @@
-﻿"thick"= 3mm
+﻿"thick"= 2.80mm
