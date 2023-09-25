@@ -1,0 +1,1 @@
+﻿"thick"= 2.93mm'Acrylic thickness"slot"= 10mm'Slot width
